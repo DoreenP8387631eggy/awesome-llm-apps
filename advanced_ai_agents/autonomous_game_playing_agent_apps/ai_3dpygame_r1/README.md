@@ -52,3 +52,9 @@ streamlit run ai_3dpygame_r1.py
      - Execution
      - Visualization viewing
 4. **User Interface:** Streamlit provides an intuitive interface for entering queries, viewing code, and managing the visualization process.
+
+### Personal Notes
+
+> **Note:** I found that Trinket.io can occasionally be slow to load. If the browser agent times out during the visualization step, simply re-run the visualization — it usually succeeds on a second attempt.
+
+> **Tip:** For best results with DeepSeek Reasoner, try to be specific in your descriptions (e.g., "a rotating 3D cube with colored faces" rather than just "a 3D cube").
